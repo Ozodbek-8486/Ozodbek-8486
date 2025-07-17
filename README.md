@@ -53,7 +53,7 @@
 
 ---
 
-### 📫 Menga bog‘lanish:
+
 
 ### 📫 Menga bog‘lanish
 
@@ -85,6 +85,13 @@
 
 ### 📊 GitHub statistikasi
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ozodbek-Usmonqulov&show_icons=true&theme=radical)
+### 📊 GitHub statistikasi
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozodbek-Usmonqulov&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ozodbek-8486&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ozodbek-8486&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozodbek-8486&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
