@@ -46,7 +46,10 @@
 
 ### 🚗 3D Car Website
 ![3D Car Website Preview](./assets/3dcar-preview.png)
-**Texnologiyalar:** typeScript, Three.js,CSS,JavaScript  
+**Texnologiyalar:** 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,css,nextjs,tailwind" />
+</p> 
 **Tavsif:** Bu sayt avtomobillar katalogi va 3D model sahifasini o‘z ichiga oladi. Foydalanuvchi mashinani aylantirib ko‘rishi va tafsilotlarini o‘qishi mumkin.  
 🔗 [GitHub repository](https://github.com/Ozodbek-8486/Car-3D-web-sites)
 
