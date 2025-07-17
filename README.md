@@ -1,4 +1,6 @@
-![Snake animation](https://github.com/ozodbek-8486/Ozodbek-8486/blob/main/snake.svg)
+![Status](https://img.shields.io/badge/Status-Online-brightgreen)
+![Position](https://img.shields.io/badge/Role-Developer-blue)
+![Location](https://img.shields.io/badge/From-Uzbekistan-yellow)
 
 <h1 align="center">Salom 👋, Men Ozodbek Usmonqulov</h1>
 
