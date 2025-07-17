@@ -42,17 +42,37 @@
 
 ---
 
-### 💼 Portfolio loyihalarim
+## 💼 Portfolio loyihalarim
 
-| Loyiha nomi | Texnologiya | Tavsif | Havola |
-|-------------|-------------|--------|--------|
-| 🚗 **3D Car Website** | React, Three.js | Mashinalar katalogi va 3D ko‘rinishdagi model sahifalar | [GitHub](https://github.com/username/car-3d-website) |
-| 📰 **Admin-Dashboard** | Django | Admin panel, maqolalar boshqaruvi | [GitHub](https://github.com/username/blog-django) |
-| 👤 **Login/Sign Up UI** | HTML, CSS, JS | Light va Dark rejimli dizayn sahifasi | [GitHub](https://github.com/username/login-ui-design) |
-| 📄 **Portfolio Site** | Next.js, Tailwind | Mening portfolio va loyihalarim | [GitHub](https://github.com/username/my-portfolio) |
+### 🚗 3D Car Website
+![3D Car Website Preview](https://raw.githubusercontent.com/Ozodbek-8486/Car-3D-web-sites/main/public/preview.jpg)
+**Texnologiyalar:** React, Three.js  
+**Tavsif:** Bu sayt avtomobillar katalogi va 3D model sahifasini o‘z ichiga oladi. Foydalanuvchi mashinani aylantirib ko‘rishi va tafsilotlarini o‘qishi mumkin.  
+🔗 [GitHub repository](https://github.com/Ozodbek-8486/Car-3D-web-sites)
 
 ---
 
+### 📰 Admin-Dashboard
+![Admin Dashboard Preview](https://raw.githubusercontent.com/username/blog-django/main/preview.jpg)
+**Texnologiyalar:** Django  
+**Tavsif:** Bu loyiha admin panel asosida maqolalarni CRUD qilish uchun yaratilgan.  
+🔗 [GitHub repository](https://github.com/username/blog-django)
+
+---
+
+### 👤 Login / Sign Up UI
+![Login UI Preview](https://raw.githubusercontent.com/username/login-ui-design/main/preview.jpg)
+**Texnologiyalar:** HTML, CSS, JavaScript  
+**Tavsif:** Light va Dark rejimga ega login/ro‘yxatdan o‘tish sahifasi.  
+🔗 [GitHub repository](https://github.com/username/login-ui-design)
+
+---
+
+### 🌐 Portfolio Sayt
+![Portfolio Preview](https://raw.githubusercontent.com/username/my-portfolio/main/preview.jpg)
+**Texnologiyalar:** Next.js, TailwindCSS  
+**Tavsif:** Bu sayt mening portfolio ishim bo‘lib, unda loyihalarim, aloqa uchun havolalar, va men haqimdagi ma’lumotlar jamlangan.  
+🔗 [GitHub repository](https://github.com/username/my-portfolio)
 
 
 ### 📫 Menga bog‘lanish
