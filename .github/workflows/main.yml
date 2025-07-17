@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Har kuni soat 00:00 da ishga tushadi
+    - cron: "0 0 * * *"  # Har kuni soat 00:00 da ishlaydi
   workflow_dispatch:
 
 jobs:
@@ -13,11 +13,10 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Generate the snake
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         with:
           github_user_name: Ozodbek-8486
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3

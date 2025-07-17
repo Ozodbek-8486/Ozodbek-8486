@@ -1,7 +1,7 @@
 
 ## 🐍 GitHub Contribution Snake
 
-![Snake animation](https://github.com/Ozodbek-8486/Ozodbek-8486/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Ozodbek-8486/Ozodbek-8486/output/github-contribution-grid-snake.svg)
 
 
 ![Status](https://img.shields.io/badge/Status-Online-brightgreen)
