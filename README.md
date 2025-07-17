@@ -1,3 +1,8 @@
+## 📈 GitHub Snake Activity
+
+![snake gif](https://github.com/Ozodbek-8486/Ozodbek-8486/blob/output/github-contribution-grid-snake.svg)
+
+
 ![Status](https://img.shields.io/badge/Status-Online-brightgreen)
 ![Position](https://img.shields.io/badge/Role-Developer-blue)
 ![Location](https://img.shields.io/badge/From-Uzbekistan-yellow)
