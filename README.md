@@ -55,12 +55,33 @@
 
 ### 📫 Menga bog‘lanish:
 
-- 📨 Email: ozodbekusmonqulov7777@gmail.com  
-- 💬 Telegram: [@Ozodbek966](https://t.me/Ozodbek966)  
-- 🌐 Portfolio: [https://ozodbek-2008.uz/](https://ozodbek-2008.uz/) *(agar bor bo‘lsa)*  
-- 🔗 GitHub: [github.com/Ozodbek-8486](https://github.com/Ozodbek-8486)
+### 📫 Menga bog‘lanish
 
----
+<p align="left">
+  <a href="mailto:ozodbekusmonqulov7777@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://t.me/Ozodbek966" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+     
+  <a href="https://instagram.com/_ozodbek_usmonqulov_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <a href="https://github.com/Ozodbek-8486" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="https://ozodbek-2008.uz/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+
+ 
+</p>
+
+
 
 ### 📊 GitHub statistikasi
 
