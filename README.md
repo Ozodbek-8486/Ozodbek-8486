@@ -45,7 +45,7 @@
 ## 💼 Portfolio loyihalarim
 
 ### 🚗 3D Car Website
-![3D Car Website Preview]<project-root>/public/screenshots/image.png
+![3D Car Website Preview](./assets/3dcar-preview.png)
 **Texnologiyalar:** React, Three.js,CSS,JavaScript  
 **Tavsif:** Bu sayt avtomobillar katalogi va 3D model sahifasini o‘z ichiga oladi. Foydalanuvchi mashinani aylantirib ko‘rishi va tafsilotlarini o‘qishi mumkin.  
 🔗 [GitHub repository](https://github.com/Ozodbek-8486/Car-3D-web-sites)
