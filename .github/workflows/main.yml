@@ -2,23 +2,24 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Har kuni soat 00:00 da ishlaydi
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # har kuni soat 00:00 da ishlaydi
+  workflow_dispatch:     # "Run workflow" tugmasi bilan ham ishga tushirish mumkin
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Generate the snake
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: Ozodbek-8486
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Push to GitHub
+      - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
