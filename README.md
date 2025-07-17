@@ -53,10 +53,10 @@
 ---
 
 ### 📰 Admin-Dashboard
-![Admin Dashboard Preview](https://raw.githubusercontent.com/username/blog-django/main/preview.jpg)
-**Texnologiyalar:** Django  
-**Tavsif:** Bu loyiha admin panel asosida maqolalarni CRUD qilish uchun yaratilgan.  
-🔗 [GitHub repository](https://github.com/username/blog-django)
+![3D Car Website Preview](./assets/admin-dashboard.png)
+**Texnologiyalar:** TypeScript,CSS,JavaScript,Nextjs  
+**Tavsif:** Bu loyiha admin panel asosida foydalanuvchilarni nzaorat qilish va to'lovlarni kuzatish uchun ishlab chiqilgan..  
+🔗 [GitHub repository](https://github.com/ozodbek-8486/Admin-Dashboard)
 
 ---
 
