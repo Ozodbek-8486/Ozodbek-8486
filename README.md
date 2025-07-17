@@ -46,7 +46,7 @@
 
 ### 🚗 3D Car Website
 ![3D Car Website Preview](./assets/3dcar-preview.png)
-**Texnologiyalar:** React, Three.js,CSS,JavaScript  
+**Texnologiyalar:** typeScript, Three.js,CSS,JavaScript  
 **Tavsif:** Bu sayt avtomobillar katalogi va 3D model sahifasini o‘z ichiga oladi. Foydalanuvchi mashinani aylantirib ko‘rishi va tafsilotlarini o‘qishi mumkin.  
 🔗 [GitHub repository](https://github.com/Ozodbek-8486/Car-3D-web-sites)
 
@@ -60,19 +60,19 @@
 
 ---
 
-### 👤 Login / Sign Up UI
-![Login UI Preview](https://raw.githubusercontent.com/username/login-ui-design/main/preview.jpg)
+### 👤 Login / Freelanker sign-In
+![3D Car Website Preview](./assets/image.png)
 **Texnologiyalar:** HTML, CSS, JavaScript  
-**Tavsif:** Light va Dark rejimga ega login/ro‘yxatdan o‘tish sahifasi.  
-🔗 [GitHub repository](https://github.com/username/login-ui-design)
+**Tavsif:** Zamonaviy ranglarga ega login qismi. .  
+🔗 [GitHub repository](https://github.com/ozodbek-8486/Frelanker-Sign-In)
 
 ---
 
 ### 🌐 Portfolio Sayt
-![Portfolio Preview](https://raw.githubusercontent.com/username/my-portfolio/main/preview.jpg)
-**Texnologiyalar:** Next.js, TailwindCSS  
+![3D Car Website Preview](./assets/portfolio.png)
+**Texnologiyalar:** HTML, CSS, JavaScript  
 **Tavsif:** Bu sayt mening portfolio ishim bo‘lib, unda loyihalarim, aloqa uchun havolalar, va men haqimdagi ma’lumotlar jamlangan.  
-🔗 [GitHub repository](https://github.com/username/my-portfolio)
+🔗 [GitHub repository](https://ozodbek-2008.uz/)
 
 
 ### 📫 Menga bog‘lanish
