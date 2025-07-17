@@ -47,17 +47,25 @@
 ### 🚗 3D Car Website
 ![3D Car Website Preview](./assets/3dcar-preview.png)
 **Texnologiyalar:** 
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,css,nextjs,tailwind" />
 </p> 
-**Tavsif:** Bu sayt avtomobillar katalogi va 3D model sahifasini o‘z ichiga oladi. Foydalanuvchi mashinani aylantirib ko‘rishi va tafsilotlarini o‘qishi mumkin.  
+
+**Tavsif:**
+ Bu sayt avtomobillar katalogi va 3D model sahifasini o‘z ichiga oladi. Foydalanuvchi mashinani aylantirib ko‘rishi va tafsilotlarini o‘qishi mumkin.  
 🔗 [GitHub repository](https://github.com/Ozodbek-8486/Car-3D-web-sites)
 
 ---
 
 ### 📰 Admin-Dashboard
 ![3D Car Website Preview](./assets/admin-dashboard.png)
-**Texnologiyalar:** TypeScript,CSS,JavaScript,Nextjs  
+
+**Texnologiyalar:** 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,css,js,tailwind," />
+</p>
+
 **Tavsif:** Bu loyiha admin panel asosida foydalanuvchilarni nzaorat qilish va to'lovlarni kuzatish uchun ishlab chiqilgan..  
 🔗 [GitHub repository](https://github.com/ozodbek-8486/Admin-Dashboard)
 
@@ -65,15 +73,24 @@
 
 ### 👤 Login / Freelanker sign-In
 ![3D Car Website Preview](./assets/image.png)
-**Texnologiyalar:** HTML, CSS, JavaScript  
+**Texnologiyalar:** 
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js," />
+</p>
+
 **Tavsif:** Zamonaviy ranglarga ega login qismi. .  
 🔗 [GitHub repository](https://github.com/ozodbek-8486/Frelanker-Sign-In)
 
----
 
 ### 🌐 Portfolio Sayt
 ![3D Car Website Preview](./assets/portfolio.png)
-**Texnologiyalar:** HTML, CSS, JavaScript  
+**Texnologiyalar:** 
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js," />
+</p>
+
 **Tavsif:** Bu sayt mening portfolio ishim bo‘lib, unda loyihalarim, aloqa uchun havolalar, va men haqimdagi ma’lumotlar jamlangan.  
 🔗 [GitHub repository](https://ozodbek-2008.uz/)
 
