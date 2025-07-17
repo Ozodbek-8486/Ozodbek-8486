@@ -49,7 +49,7 @@
 **Texnologiyalar:** 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,css,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,css,js,tailwind" />
 </p> 
 
 **Tavsif:**
